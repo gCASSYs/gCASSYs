@@ -8,8 +8,8 @@ Olá, eu sou Gabriele dos Santos Cassiano 👋
 - Email: gabrielecassiano.ads@gmail.com
 
 ## 🧰 Tecnologias
-**Front-end: HTML5 · CSS3 · JavaScript (ES6+) . Python
-**Ferramentas: Git · GitHub · VS Code
+***Front-end: HTML5 · CSS3 · JavaScript (ES6+) . Python
+*Ferramentas: Git · GitHub · VS Code
 
 ## ✨ Projetos em destaque
 - **Calculadora Web Super Sofisticada** — Padrão, Científica, Programador, Unidades e Financeira; histórico, memória e tema claro/escuro.  
