@@ -4,7 +4,7 @@ Olá, eu sou Gabriele dos Santos Cassiano 👋
 
 ## 🔗 Links
 - LinkedIn: https://www.linkedin.com/in/gabriele-dos-santos-cassiano-0bb403379
-- Portfólio/Demo: https://gCASSYs.github.io/<CalculadoraSuperSofisticada>/
+- Portfólio/Demo: https://gcassys.github.io/CalculadoraSuperSofisticada/
 - Email: gabrielecassiano.ads@gmail.com
 
 ## 🧰 Tecnologias
@@ -13,7 +13,7 @@ Olá, eu sou Gabriele dos Santos Cassiano 👋
 
 ## ✨ Projetos em destaque
 - **Calculadora Web Super Sofisticada** — Padrão, Científica, Programador, Unidades e Financeira; histórico, memória e tema claro/escuro.  
-  Demo: https://gCASSYs.github.io/<CalculadoraSuperSofisticada>/ • Código: https://github.com/gCASSYs.github.io/<CalculadoraSuperSofisticada>/
+  Demo: https://gcassys.github.io/CalculadoraSuperSofisticada/ • Código: https://github.com/gCASSYs/CalculadoraSuperSofisticada.git
 
 ## 📫 Como me encontrar
 Sinta-se à vontade para entrar em contato pelo LinkedIn ou email.
